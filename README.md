@@ -27,8 +27,7 @@
 ## 🚀 Live Demo
 
 Try it instantly on GitHub Pages:  
-[https://basant-y02.github.io/qr-studio-premium](https://basant-y02.github.io/qr-studio-premium)  
-*(Update the link after uploading your project)*
+[https://basant-y02.github.io/qr-studio-premium](https://basant-y02.github.io/qr-studio-premium)
 
 ---
 
