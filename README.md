@@ -1,6 +1,6 @@
 # QR Studio Premium
 
-![QR Studio Preview](https://via.placeholder.com/800x400.png?text=QR+Studio+Premium+Preview)
+![QR Studio Preview](https://github.com/basant-y02/qr-studio-premium/blob/main/Screenshot%202026-03-15%20145542.png?text=QR+Studio+Premium+Preview)
 
 **QR Studio Premium** is an all‑in‑one web tool that lets you design beautiful, fully customized QR codes. Control every detail: colors, dot shapes, frame styles, add your own logo, and include a caption. All with a sleek, glassmorphism interface that works on desktop, tablet, and mobile.
 
